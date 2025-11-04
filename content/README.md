@@ -7,6 +7,14 @@
 </p>
 Click the image above to watch the video
 
+#### Chess Robot
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qwZDZwg1g9o" target="_blank">
+    <img src="https://img.youtube.com/vi/qwZDZwg1g9o/0.jpg" alt="YouTube Video Thumbnail" width="480" />
+  </a>
+</p>
+Click the image above to watch the video
+
 ##### 1. Install library
 ```
 pip install -r requirements.txt
